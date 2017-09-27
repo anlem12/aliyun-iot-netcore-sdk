@@ -1,5 +1,7 @@
 # aliyun-iot-netcore-sdk
-阿里云IOT 服务器端 SDK ，使用旧版本(V20160530)改写  ，.NETCore
+
+
+阿里云 华东2 IOT 服务器端 SDK ，使用旧版本(V20160530)改写  ，.NETCore
 
 用法：
 
